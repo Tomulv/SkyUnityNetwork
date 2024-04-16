@@ -61,7 +61,7 @@
   #s1{
     height: 450px;
     width: 100%;
-    background-image: url(img/1713124084_30c9ea24607b437abfccddeea608d155.png);
+    background-image: url("1713124084_30c9ea24607b437abfccddeea608d155.png");
     
   }
  #headZ{
@@ -157,7 +157,7 @@ background-color: black;
 
 }
 #s3d2::before{
-  background-image: url(img/1713205126_01ce6ef57fb84ddabbc2febd704a30ed.png); 
+  background-image: url(1713205126_01ce6ef57fb84ddabbc2febd704a30ed.png); 
   background-size: cover;
   content: '';
   position: absolute;
